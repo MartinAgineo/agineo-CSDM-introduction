@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="DELETE">
+        <macroponent/>
+        <macroponent_config/>
+        <screen display_value="Default copy">ba32f85483bc4750759f9cb6feaad3fe</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-07 18:17:20</sys_created_on>
+        <sys_id>3e323c5483bc4750759f9cb6feaad310</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="agineo CSDM introduction" source="x_1092938_agineo_0">ba213c9083bc4750759f9cb6feaad3a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="agineo CSDM introduction">ba213c9083bc4750759f9cb6feaad3a7</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_3e323c5483bc4750759f9cb6feaad310</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-07 18:17:20</sys_updated_on>
+    </sys_uib_screen_test_values>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="agineo CSDM introduction">ba213c9083bc4750759f9cb6feaad3a7</application>
+        <file_path/>
+        <instance_id>2f73a7572b1b9ed42fdcfcd2ce91bf7c</instance_id>
+        <instance_name>dev293568</instance_name>
+        <name>sys_uib_screen_test_values_3e323c5483bc4750759f9cb6feaad310</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values"><sys_uib_screen_test_values action="INSERT_OR_UPDATE"><macroponent/><macroponent_config/><screen display_value="Default copy">ba32f85483bc4750759f9cb6feaad3fe</screen><sys_class_name>sys_uib_screen_test_values</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-07 18:17:20</sys_created_on><sys_id>3e323c5483bc4750759f9cb6feaad310</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="agineo CSDM introduction" source="x_1092938_agineo_0">ba213c9083bc4750759f9cb6feaad3a7</sys_package><sys_policy/><sys_scope display_value="agineo CSDM introduction">ba213c9083bc4750759f9cb6feaad3a7</sys_scope><sys_update_name>sys_uib_screen_test_values_3e323c5483bc4750759f9cb6feaad310</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-07 18:17:20</sys_updated_on></sys_uib_screen_test_values></record_update>]]></payload>
+        <payload_hash>-331330826</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>46e1381483bc4750759f9cb6feaad37d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-07 18:17:20</sys_created_on>
+        <sys_id>b6323c5483bc4750759f9cb6feaad313</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19e03a896cc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-07 18:17:20</sys_updated_on>
+        <type>UIB Test Values</type>
+        <update_guid>76323c54d7bc4750b6b1fe1442f00012</update_guid>
+        <update_guid_history>76323c54d7bc4750b6b1fe1442f00012:-331330826</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-07 18:19:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_uib_screen_test_values">sys_uib_screen_test_values</sys_db_object>
+        <sys_id>6503e8233e2d4130820e59ef3c6b9f10</sys_id>
+        <sys_metadata>3e323c5483bc4750759f9cb6feaad310</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="agineo CSDM introduction" source="x_1092938_agineo_0">ba213c9083bc4750759f9cb6feaad3a7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="agineo CSDM introduction">ba213c9083bc4750759f9cb6feaad3a7</sys_scope>
+        <sys_scope_delete display_value="">0b40289d915e4697802fbd4ebe70a4b9</sys_scope_delete>
+        <sys_update_name>sys_uib_screen_test_values_3e323c5483bc4750759f9cb6feaad310</sys_update_name>
+        <sys_update_version display_value="sys_uib_screen_test_values_3e323c5483bc4750759f9cb6feaad310">b6323c5483bc4750759f9cb6feaad313</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-07 18:19:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

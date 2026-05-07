@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="DELETE">
+        <active>true</active>
+        <app_config display_value="agineo CSDM introduction">42e1381483bc4750759f9cb6feaad37b</app_config>
+        <description/>
+        <disable_auto_reflow>true</disable_auto_reflow>
+        <disable_interoperable>false</disable_interoperable>
+        <event_mappings>[]</event_mappings>
+        <macroponent display_value="Default">3232f85483bc4750759f9cb6feaad3f9</macroponent>
+        <macroponent_config>{
+    "bare": {
+        "type": "JSON_LITERAL",
+        "value": true
+    },
+    "headerLevel": {
+        "type": "JSON_LITERAL",
+        "value": "1"
+    },
+    "headingOnlyVisibleToScreenReaders": {
+        "type": "JSON_LITERAL",
+        "value": false
+    },
+    "interceptNotifications": {
+        "type": "JSON_LITERAL",
+        "value": false
+    },
+    "label": {
+        "type": "JSON_LITERAL",
+        "value": ""
+    },
+    "propagateNotifications": {
+        "type": "JSON_LITERAL",
+        "value": false
+    },
+    "scrollable": {
+        "type": "JSON_LITERAL",
+        "value": "y"
+    }
+}</macroponent_config>
+        <name>Default copy</name>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="home">e6f1381483bc4750759f9cb6feaad3cb</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-07 18:17:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ba32f85483bc4750759f9cb6feaad3fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default copy</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="agineo CSDM introduction" source="x_1092938_agineo_0">ba213c9083bc4750759f9cb6feaad3a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="agineo CSDM introduction">ba213c9083bc4750759f9cb6feaad3a7</sys_scope>
+        <sys_update_name>sys_ux_screen_ba32f85483bc4750759f9cb6feaad3fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-07 18:17:20</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="DELETE" query="documentkey=ba32f85483bc4750759f9cb6feaad3fe"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="agineo CSDM introduction">ba213c9083bc4750759f9cb6feaad3a7</application>
+        <file_path/>
+        <instance_id>2f73a7572b1b9ed42fdcfcd2ce91bf7c</instance_id>
+        <instance_name>dev293568</instance_name>
+        <name>sys_ux_screen_ba32f85483bc4750759f9cb6feaad3fe</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config display_value="agineo CSDM introduction">42e1381483bc4750759f9cb6feaad37b</app_config><description/><disable_auto_reflow>true</disable_auto_reflow><disable_interoperable>false</disable_interoperable><event_mappings>[]</event_mappings><macroponent display_value="Default">3232f85483bc4750759f9cb6feaad3f9</macroponent><macroponent_config>{
+    "bare": {
+        "type": "JSON_LITERAL",
+        "value": true
+    },
+    "headerLevel": {
+        "type": "JSON_LITERAL",
+        "value": "1"
+    },
+    "headingOnlyVisibleToScreenReaders": {
+        "type": "JSON_LITERAL",
+        "value": false
+    },
+    "interceptNotifications": {
+        "type": "JSON_LITERAL",
+        "value": false
+    },
+    "label": {
+        "type": "JSON_LITERAL",
+        "value": ""
+    },
+    "propagateNotifications": {
+        "type": "JSON_LITERAL",
+        "value": false
+    },
+    "scrollable": {
+        "type": "JSON_LITERAL",
+        "value": "y"
+    }
+}</macroponent_config><name>Default copy</name><order>0</order><parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent><required_translations>[ ]</required_translations><rollback_screen/><screen_condition/><screen_type display_value="home">e6f1381483bc4750759f9cb6feaad3cb</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-07 18:17:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ba32f85483bc4750759f9cb6feaad3fe</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Default copy</sys_name><sys_overrides/><sys_package display_value="agineo CSDM introduction" source="x_1092938_agineo_0">ba213c9083bc4750759f9cb6feaad3a7</sys_package><sys_policy/><sys_scope display_value="agineo CSDM introduction">ba213c9083bc4750759f9cb6feaad3a7</sys_scope><sys_update_name>sys_ux_screen_ba32f85483bc4750759f9cb6feaad3fe</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-07 18:17:20</sys_updated_on></sys_ux_screen><sys_translated_text action="delete_multiple" query="documentkey=ba32f85483bc4750759f9cb6feaad3fe"/></record_update>]]></payload>
+        <payload_hash>-1285812505</payload_hash>
+        <record_name>Default copy</record_name>
+        <reverted_from/>
+        <source>46e1381483bc4750759f9cb6feaad37d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-07 18:17:20</sys_created_on>
+        <sys_id>be323c5483bc4750759f9cb6feaad30f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19e03a896a70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-07 18:17:20</sys_updated_on>
+        <type>UX Screen</type>
+        <update_guid>b6323c54bdbc4750e35cc50feeb92e02</update_guid>
+        <update_guid_history>b6323c54bdbc4750e35cc50feeb92e02:-1285812505</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-07 18:19:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen">sys_ux_screen</sys_db_object>
+        <sys_id>131c592f474f42d2988b408da12ea004</sys_id>
+        <sys_metadata>ba32f85483bc4750759f9cb6feaad3fe</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default copy</sys_name>
+        <sys_package display_value="agineo CSDM introduction" source="x_1092938_agineo_0">ba213c9083bc4750759f9cb6feaad3a7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="agineo CSDM introduction">ba213c9083bc4750759f9cb6feaad3a7</sys_scope>
+        <sys_scope_delete display_value="">0b40289d915e4697802fbd4ebe70a4b9</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_ba32f85483bc4750759f9cb6feaad3fe</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_ba32f85483bc4750759f9cb6feaad3fe">be323c5483bc4750759f9cb6feaad30f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-07 18:19:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
