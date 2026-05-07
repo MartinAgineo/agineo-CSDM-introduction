@@ -50,7 +50,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>22f13c1483bc4750759f9cb6feaad313</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Default</sys_name>
         <sys_overrides/>
         <sys_package display_value="agineo CSDM introduction" source="x_1092938_agineo_0">ba213c9083bc4750759f9cb6feaad3a7</sys_package>
@@ -58,7 +58,7 @@
         <sys_scope display_value="agineo CSDM introduction">ba213c9083bc4750759f9cb6feaad3a7</sys_scope>
         <sys_update_name>sys_ux_screen_22f13c1483bc4750759f9cb6feaad313</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-05-07 18:33:31</sys_updated_on>
+        <sys_updated_on>2026-05-07 20:03:10</sys_updated_on>
     </sys_ux_screen>
     <sys_translated_text action="delete_multiple" query="documentkey=22f13c1483bc4750759f9cb6feaad313"/>
 </record_update>

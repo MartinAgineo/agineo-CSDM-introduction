@@ -36,7 +36,7 @@
                 "value": {
                     "code": null,
                     "comment": "",
-                    "message": "Moin,\nthis is an introduction to CSDM, provided by agineo."
+                    "message": "Moin, this is an introduction to CSDM, provided by agineo."
                 }
             }
         },
@@ -69,7 +69,7 @@
             },
             "allowTopNavigation": {
                 "type": "JSON_LITERAL",
-                "value": false
+                "value": true
             },
             "data": {
                 "type": "JSON_LITERAL",
@@ -77,7 +77,7 @@
             },
             "disableSandbox": {
                 "type": "JSON_LITERAL",
-                "value": false
+                "value": true
             },
             "height": {
                 "type": "JSON_LITERAL",
@@ -162,7 +162,7 @@
         <output_prop_mapping/>
         <props>[]</props>
         <required_translations>[ {
-  "message" : "Moin,\nthis is an introduction to CSDM, provided by agineo.",
+  "message" : "Moin, this is an introduction to CSDM, provided by agineo.",
   "code" : "",
   "comment" : ""
 } ]</required_translations>
@@ -177,14 +177,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-05-07 18:16:13</sys_created_on>
         <sys_id>eef13c1483bc4750759f9cb6feaad309</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Default</sys_name>
         <sys_package display_value="agineo CSDM introduction" source="x_1092938_agineo_0">ba213c9083bc4750759f9cb6feaad3a7</sys_package>
         <sys_policy/>
         <sys_scope display_value="agineo CSDM introduction">ba213c9083bc4750759f9cb6feaad3a7</sys_scope>
         <sys_update_name>sys_ux_macroponent_eef13c1483bc4750759f9cb6feaad309</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-05-07 18:33:31</sys_updated_on>
+        <sys_updated_on>2026-05-07 20:03:12</sys_updated_on>
     </sys_ux_macroponent>
     <sys_translated_text action="delete_multiple" query="documentkey=eef13c1483bc4750759f9cb6feaad309"/>
 </record_update>
